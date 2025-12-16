@@ -39,25 +39,22 @@ Expected Graduation: **Spring 2026**
 
 ## Projects
 
-> These are examples of how I expect my Projects section to look by graduation.
-
 ### Home Lab Network with Virtual Machines
 - Built a small home lab using **VirtualBox** with multiple **Debian** and **Windows** virtual machines.  
 - Practiced host vs. guest concepts, networking between VMs, and snapshots for testing.  
 - Configured SSH access to Linux VMs and experimented with basic firewall rules and port forwarding.  
-- **Code/Configs:** [GitHub Repo – Home Lab Setup](https://github.com/your-github-username/homelab)
+
 
 ### Personal Website on Apache (Debian Server)
 - Deployed a simple personal website on a **Debian** server using **Apache**.  
 - Set up a web root in `/var/www/html`, managed file permissions, and practiced using `sudo`, `chown`, and `chmod`.  
 - Used basic HTML/CSS templates and learned how to restart/reload Apache after configuration changes.  
-- **Website Files / Configs:** [GitHub Repo – Apache Personal Site](https://github.com/your-github-username/apache-site)
 
 ### CIS106 Linux Labs & Scripts
 - Completed a series of Linux labs for **CIS106**, including working with directories, wildcards, and brace expansion.  
 - Created simple shell scripts to automate basic tasks like creating directory structures and backing up files.  
 - Practiced using Git and GitHub to track changes and push lab work to a remote repository.  
-- **Labs:** [GitHub Repo – CIS106 Linux Labs](https://github.com/your-github-username/cis106-labs)
+
 
 ---
 
