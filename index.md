@@ -2,9 +2,6 @@
 Paterson, NJ  
 Email: your.email@domain.com  
 Phone: (555) 555-5555  
-GitHub: [github.com/your-github-username](https://github.com/your-github-username)  
-LinkedIn: [linkedin.com/in/your-link](https://linkedin.com/in/your-link)
-
 ---
 
 ## Objective
